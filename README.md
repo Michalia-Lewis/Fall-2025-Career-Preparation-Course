@@ -19,9 +19,9 @@ This repository contains the assignments, worksheets, and reflections I complete
 ## 📁 Repository Contents
 
 | Folder / File | Description |
-| :--- | :--- |
-| `accomplishment-stories.md` | My STAR-based professional stories along with the *What Color is Your Parachut* skills grid. |
-| `why-computer-science.md` | Why I chose to pursue a career in computer science. |
+| :--------------------------------------------- | :----------------------------------------------------------- |
+| `assignments/accomplishment-stories.md` | My STAR-based professional stories along with the *What Color is Your Parachut* skills grid. |
+| `assignments/why-computer-science.md` | Why I chose to pursue a career in computer science. |
 
 ---
 
